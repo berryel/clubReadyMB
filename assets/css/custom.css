@@ -3,9 +3,10 @@
   }
 
 
- .text-white {
+ .text-page {
      font-family: 'Black Ops One', cursive;
      font-weight: bold;
+     color: #fff;
      
  }
 
