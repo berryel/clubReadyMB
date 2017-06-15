@@ -1,0 +1,41 @@
+ #headline {
+  	color: #febe10;
+  }
+
+
+ .text-white {
+     font-family: 'Black Ops One', cursive;
+     font-weight: bold;
+     
+ }
+
+ .nav-1 .navbar {
+    background: #106d37;
+    
+}
+
+
+
+section {
+    background-color: #fff;
+}
+
+
+input[type="submit"] {
+    font-weight: 500 !important;
+    height: 54px;
+    line-height: 48px;
+    text-align: center;
+    background: #106d37;
+    border: 1px solid #106d37;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 0 36px;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    color: #febe10;
+  }
+
+  
+
