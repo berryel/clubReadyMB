@@ -1,3 +1,9 @@
+ body {
+
+  font-family: 'Open Sans', sans-serif;
+ }
+
+
  #headline {
   	color: #febe10;
   }
@@ -41,7 +47,8 @@ input[type="submit"] {
   .footer-1{
     background: #106d37;
     color:#febe10;
-    font-weight: bold;
+    font-weight: bolder;
+    font-size: 60px;
 
   }
 
