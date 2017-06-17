@@ -8,6 +8,11 @@
   	color: #febe10;
   }
 
+  nav a {
+    color: #febe10;
+    font-size: 15px;
+    font-weight: bold;
+}
 
  .text-page {
      font-family: 'Black Ops One', cursive;
